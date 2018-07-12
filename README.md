@@ -13,5 +13,5 @@ DoggoCNN is a Convolutional Neural Network capable of classifying cats and dogs 
 DoggoCNN uses a number of open source projects to work properly:
 
 * Keras
-* Cv2- awesome web-based text editor
+* Cv2
 * NumPy
