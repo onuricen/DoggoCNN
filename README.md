@@ -23,3 +23,6 @@ Use predict.py to do predictions
 ```sh
 $ predict.py pup.jpg
 ```
+
+### Licence
+This project is available as open source under the terms of the MIT License.
