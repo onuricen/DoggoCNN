@@ -15,3 +15,9 @@ DoggoCNN uses a number of open source projects to work properly:
 * Keras
 * Cv2
 * NumPy
+
+### Usage
+
+Use predict.py to do predictions
+
+> predict.py pup.jpg
