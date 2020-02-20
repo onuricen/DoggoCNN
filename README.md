@@ -20,4 +20,6 @@ DoggoCNN uses a number of open source projects to work properly:
 
 Use predict.py to do predictions
 
-> predict.py pup.jpg
+```sh
+$ predict.py pup.jpg
+```
