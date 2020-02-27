@@ -2,13 +2,13 @@
 
 
 
-DoggoCNN is a Convolutional Neural Network capable of classifying cats and dogs with %81 accuracy.
+DoggoCNN is a [Convolutional Neural Network](https://en.wikipedia.org/wiki/Convolutional_neural_network) capable of classifying cats and dogs with %81 accuracy.
 
   - Trained on 4000 cat and 4000 dog pictures ([Small version of this Kaggle Dataset)](https://www.kaggle.com/c/dogs-vs-cats) )
   -  %81 accuracy on training set
 
 
-### Tech
+## Tech
 
 DoggoCNN uses a number of open source projects to work properly:
 
@@ -16,7 +16,7 @@ DoggoCNN uses a number of open source projects to work properly:
 * Cv2
 * NumPy
 
-### Usage
+## Usage
 
 Use predict.py to do predictions
 
@@ -24,5 +24,9 @@ Use predict.py to do predictions
 $ predict.py pup.jpg
 ```
 
-### Licence
+## Training
+Use [cnn.py](https://github.com/onuricen/DoggoCNN/blob/master/cnn.py) to train your own model
+
+
+## Licence
 This project is available as open source under the terms of the MIT License.
