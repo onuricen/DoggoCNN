@@ -18,7 +18,7 @@ DoggoCNN uses a number of open source projects to work properly:
 
 ## Usage
 
-Use predict.py to do predictions (You can use default jpg files that comes with the repo)
+Use predict.py to do predictions (You can use default jpg files that comes with this repo)
 
 ```sh
 $ predict.py pup.jpg
